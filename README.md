@@ -4,15 +4,15 @@ I'm a Computer Science student pursuing my B.E. with a strong foundation in prog
 
 ## GitHub Stats 📊
 
+<p align="center">
+
+[![wakatime](https://wakatime.com/badge/user/018ba461-68a2-4d6c-9719-85ec92fc26f2.svg)](https://wakatime.com/@018ba461-68a2-4d6c-9719-85ec92fc26f2)
+  
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Subrat29&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)](https://github.com/Subrat29)
 
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Subrat29&theme=dark" width="400">
+
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Subrat29&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)](https://github.com/Subrat29)
-
-## GitHub Activity 🏃‍♂️
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Subrat29&show_icons=true&theme=bear" width="400">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Subrat29&theme=dark&hide_border=true" width="400">
 </p>
 
 ## 🏆 Holopin Badges 🌟
