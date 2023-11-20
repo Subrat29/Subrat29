@@ -1,6 +1,19 @@
 # Hi there! 👋 I'm Subrat
 
-I'm a Computer Science student pursuing my B.E. with a strong foundation in programming, data structures, and web application development. My passion for technology and problem-solving drives my commitment to crafting efficient, user-friendly solutions. Let's connect to explore opportunities for collaboration and growth in the dynamic world of computer science. ✌️
+# Professional Summary
+
+- Computer Science student pursuing B.E with a strong foundation in:
+  - Programming
+  - Data Structures
+  - Web Application Development
+
+- Passionate about technology and problem-solving.
+
+- Committed to crafting efficient and user-friendly solutions.
+
+- Open to exploring opportunities for collaboration and growth in the dynamic field of computer science.
+
+- Let's connect and discuss potential collaborations! ✌️
 
 ## GitHub Stats 📊
 
@@ -19,4 +32,4 @@ I'm a Computer Science student pursuing my B.E. with a strong foundation in prog
 
 [![Holopin Badges](https://holopin.me/subrat29)](https://holopin.io/@subrat29)
 
-Feel free to connect and explore my work. Let's make things happen! 🚀
+## Feel free to connect and explore my work. Let's make things happen! 🚀
