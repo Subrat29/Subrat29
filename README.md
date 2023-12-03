@@ -1,19 +1,11 @@
 # Hi there! 👋 I'm Subrat
 
-# Professional Summary
+### Professional Summary 🚀
 
-- Computer Science student pursuing B.E with a strong foundation in:
-  - Programming
-  - Data Structures
-  - Web Application Development
-
-- Passionate about technology and problem-solving.
-
-- Committed to crafting efficient and user-friendly solutions.
-
-- Open to exploring opportunities for collaboration and growth in the dynamic field of computer science.
-
-- Let's connect and discuss potential collaborations! ✌️
+- 📚 Currently pursuing B.E in Computer Science.
+- 💻 Strong foundation in Programming, Data Structures, and Web Application Development.
+- 🌐 Committed to crafting efficient and user-friendly solutions.
+- 🤝 Open to collaboration and eager to grow in the dynamic field of computer science.
 
 ## GitHub Stats 📊
 
