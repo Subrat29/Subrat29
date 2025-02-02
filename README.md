@@ -6,9 +6,6 @@
 - 💻 Strong foundation in Programming, Data Structures, and Web Development.
 - 🌐 Dedicated to crafting efficient and user-friendly solutions.
 - 🤝 Open to collaboration and eager to grow in the ever-evolving field of Computer Science.
-- 🚧 Currently developing TechTrenz, a multi-feature blog app.
-- 🌱 Learning backend development in JavaScript through [ChaiAurCode](https://www.youtube.com/playlist?list=PLu71SKxNbfoBGh_8p_NS-ZAh6v7HhYqHW).
-- 🎯 Participating in the #CrackYourPlacement 60-day challenge by [Arsh Goyal](https://www.linkedin.com/in/arshgoyal/).
 
 ## GitHub Stats 📊
 
